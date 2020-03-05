@@ -1,4 +1,4 @@
-### Micrtask 1
+### Microtask 1
 Since more than a year, I have been working on **PyCharm**. So, I am already familiar with it.
 I attached a screen capture [here].(https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%200/pycharm_.JPG)
 
