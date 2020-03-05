@@ -1,11 +1,11 @@
-#### Micrtask 1
+### Micrtask 1
 Since more than a year, I have been working on **PyCharm**. So, I am already familiar with it.
 I attached a screen capture [here].(https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%200/pycharm_.JPG)
 
 A guide to Download and Install PyCharm is [here](https://www.jetbrains.com/help/pycharm/installation-guide.html)
 Download link is [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-##### Configure a system interpreter
+### Configure a system interpreter
 
 - Ensure that you have downloaded and installed Python on your computer.
 If you are on Windows, you can download Python from the Microsoft Store and install it as a project interpreter.
