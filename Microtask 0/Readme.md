@@ -18,8 +18,8 @@ Open the Settings / Preferences Dialog by pressing Ctrl+Alt+S or by choosing Fil
 In the Settings/Preferences dialog Ctrl+Alt+S, select Project <project name> | Project Interpreter.
 Click the The Configure project interpreter icon and select Add.
 
--In the left-hand pane of the Add Python Interpreter dialog, select System Interpreter.
+- In the left-hand pane of the Add Python Interpreter dialog, select System Interpreter.
 In the Interpreter field, type the fully-qualified path to the required interpreter executable, or click the Browse button and in the Select Python Interpreter dialog that opens, choose the desired Python executable and click OK.
 You will need admin privileges to install, remove, and upgrade packages for the system interpreter. When attempting to install an interpreter package through an intention action, you might receive the following error message:
 
--Click OK to complete the task.
+- Click OK to complete the task.
