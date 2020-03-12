@@ -1,6 +1,5 @@
-### Microtask 1
-Since more than a year, I have been working on **PyCharm**. So, I am already familiar with it.
-I attached a screen capture [here].(https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%200/pycharm_.JPG)
+### Microtask 0
+In this microtask, we'll download Pycharm and get fimiliar with it
 
 A guide to Download and Install PyCharm is [here](https://www.jetbrains.com/help/pycharm/installation-guide.html)
 Download link is [here](https://www.jetbrains.com/pycharm/download/#section=windows)
@@ -23,3 +22,4 @@ In the Interpreter field, type the fully-qualified path to the required interpre
 You will need admin privileges to install, remove, and upgrade packages for the system interpreter. When attempting to install an interpreter package through an intention action, you might receive the following error message:
 
 - Click OK to complete the task.
+![alt text](https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%200/pycharm_.JPG)
