@@ -7,4 +7,5 @@ STEPS:
 - Select Script path as bin/perceval from the project repository.
 - Add Perceval parameters in Parameters input tab.
 - Apply the changes & Run the script.
-[!Alt text](https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%201/run_debug_config.JPG)
+
+![task](https://github.com/AayushTyagi1/CHAOSS-microtask/blob/master/Microtask%201/run_debug_config.JPG)
