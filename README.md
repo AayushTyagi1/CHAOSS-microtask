@@ -18,7 +18,10 @@ In the current stage, GrimoireLab doesn't provide an approach to share custom da
 ## Microtasks
 ### Microtask 0:
 > Download PyCharm and get familiar with it.
+
 Completed [here](https://github.com/AayushTyagi1/CHAOSS-microtask/tree/master/Microtask%200).
 
 ### Microtask 1:
 >Set up Perceval to be executed from PyCharm.
+
+Completed  [here](https://github.com/AayushTyagi1/CHAOSS-microtask/tree/master/Microtask%201)
