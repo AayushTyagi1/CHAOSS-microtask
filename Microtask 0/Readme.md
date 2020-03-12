@@ -1,8 +1,9 @@
 ### Microtask 0
-In this microtask, we'll download Pycharm and get fimiliar with it
+In this microtask, we'll download Pycharm and get fimiliar with it.
 
-A guide to Download and Install PyCharm is [here](https://www.jetbrains.com/help/pycharm/installation-guide.html)
-Download link is [here](https://www.jetbrains.com/pycharm/download/#section=windows)
+A guide to Download and Install PyCharm is [here](https://www.jetbrains.com/help/pycharm/installation-guide.html).
+
+Download link is [here](https://www.jetbrains.com/pycharm/download/#section=windows).
 
 ### Configure a system interpreter
 
