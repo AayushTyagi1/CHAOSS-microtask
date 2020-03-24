@@ -25,3 +25,8 @@ Completed [here](https://github.com/AayushTyagi1/CHAOSS-microtask/tree/master/Mi
 >Set up Perceval to be executed from PyCharm.
 
 Completed  [here](https://github.com/AayushTyagi1/CHAOSS-microtask/tree/master/Microtask%201)
+
+### Microtask 2:
+>Create a Python script to execute Perceval via its Python interface using the Git and GitLab backends. Feel free to select any target repository.
+
+Completed [here](https://github.com/AayushTyagi1/CHAOSS-microtask/tree/master/Microtask%202)
